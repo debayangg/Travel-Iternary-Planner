@@ -1,0 +1,6 @@
+/home/debayan/learn/idk/src/main/java/com/example/travelitinerary/config/SecurityConfig.java
+/home/debayan/learn/idk/src/main/java/com/example/travelitinerary/TravelItineraryApplication.java
+/home/debayan/learn/idk/src/main/java/com/example/travelitinerary/controller/AuthController.java
+/home/debayan/learn/idk/src/main/java/com/example/travelitinerary/model/ItineraryItem.java
+/home/debayan/learn/idk/src/main/java/com/example/travelitinerary/repository/ItineraryItemRepository.java
+/home/debayan/learn/idk/src/main/java/com/example/travelitinerary/controller/ItineraryController.java

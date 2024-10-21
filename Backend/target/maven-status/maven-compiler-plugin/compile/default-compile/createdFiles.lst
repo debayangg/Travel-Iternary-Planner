@@ -1,0 +1,6 @@
+com/example/travelitinerary/controller/ItineraryController.class
+com/example/travelitinerary/controller/AuthController.class
+com/example/travelitinerary/TravelItineraryApplication.class
+com/example/travelitinerary/config/SecurityConfig.class
+com/example/travelitinerary/model/ItineraryItem.class
+com/example/travelitinerary/repository/ItineraryItemRepository.class
